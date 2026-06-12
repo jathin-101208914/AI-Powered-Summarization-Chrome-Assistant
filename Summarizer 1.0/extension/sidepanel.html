@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Summarizer Assistant</title>
+    <link rel="stylesheet" href="sidepanel.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h2 style="background: linear-gradient(45deg, #ff0000, #ff0099, #6600ff, #00ccff); background-clip: text; -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Summarizer Assistant</h2>
+        </div>
+        <div class="actions">
+            <button id="summarizeBtn">Summarize</button>   
+        </div>
+        <div class="notes">
+            <h3 style="color: red;">Notes</h3>
+            <textarea  id="notes" placeholder="Write Notes Here"></textarea>
+            <button id="SaveNotesBtn">Save</button>   
+        </div>
+        <div id="results"></div>
+        <button id="CopyTextbtn" style="display: none;">Copy</button>
+    </div>
+    <script src="sidepanel.js"></script>
+</body>
+</html>
