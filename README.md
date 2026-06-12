@@ -16,7 +16,7 @@ A Chrome extension I built that lets you highlight any text on a webpage and ins
 
 **Default view when you open the extension**
 
-![Default State](s\Screenshots/screenshot1.png)
+![Default State](Screenshots/screenshot1.png)
 
 **After clicking Summarize – waiting for the AI response**
 
