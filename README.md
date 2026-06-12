@@ -16,19 +16,19 @@ A Chrome extension I built that lets you highlight any text on a webpage and ins
 
 **Default view when you open the extension**
 
-![Default State](screenshots/screenshot1.png)
+![Default State](s\Screenshots/screenshot1.png)
 
 **After clicking Summarize – waiting for the AI response**
 
-![Loading State](screenshots/screenshot2.png)
+![Loading State](Screenshots/screenshot2.png)
 
 **Summary result displayed in the panel**
 
-![Summary Result](screenshots/screenshot3.png)
+![Summary Result](Screenshots/screenshot3.png)
 
 **What happens if you forget to select text first**
 
-![Error State](screenshots/screenshot4.png)
+![Error State](Screenshots/screenshot4.png)
 
 ---
 
